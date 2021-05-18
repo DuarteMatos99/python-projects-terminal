@@ -1,3 +1,4 @@
 # Python projects done on terminal 🐍
 
-Some programs/games done with python to improve my skills as programmer
+Projects list:
+- Contact book, is a little system created using basic operations of persistent storage(CRUD) with sqlite. CRUD means *create*, *read*, *update* and *delete*.
